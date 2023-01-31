@@ -1,2 +1,2 @@
 # CV
-Link: [Click Here](https://david-rjoian.github.io/travel-agency-web-page/)
+Link: [Click Here](https://david-rjoian.github.io/Travel-Agency-Web-Page/)
